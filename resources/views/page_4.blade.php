@@ -1,10 +1,10 @@
 @extends('layouts.base')
 
-@section('title', 'Home')
+@section('title', 'About')
 
 @section('menu', 'header')
 
 @section('content')
-<h1>Accueil</h1>
+<h1>About</h1>
 
 @endsection
